@@ -1,0 +1,13 @@
+{
+  "item.modid.gatorade": "Gatorade",
+  "item.modid.heart": "I love you mom!",
+  "item.modid.reverb_fragments": "Reverb Fragment",
+  "item.modid.belt": "Dad's Belt",
+
+
+  "block.modid.reverb_block": "Reverb Block",
+  "block.modid.reverb_ore": "Reverb Ore",
+
+  "itemGroup.modid.reverb": "Reverb",
+  "itemGroup.modid.jack": "Jack's Favorite Items"
+}
